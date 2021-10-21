@@ -7,8 +7,6 @@
 + [编程](./0_programming.md)
 + [图形学](./1_cg.md)
 + [地理信息系统GIS](./2_gis.md)
-+ [教程&博客](./3_courses.md)
-+ [书单](./4_booklist.md)
 + [其他资源](./5_resources.md)
 
 ## 常用工具
