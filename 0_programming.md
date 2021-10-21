@@ -56,3 +56,9 @@
 | 	[算法导论, 3rd Edition (2009)](http://libgen.rs/search.php?&req=Introduction+to+Algorithms+Thomas&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)  | 总有一本书是读不完的。  | :star: :star: :star: :star: :star:|
 
 ## 软件开发方法
+
+### 书籍
+
+| 书名  | 简介 | 推荐指数 |
+| ------------- | ------------- | ------------- |
+| 	[人月神话, 2ed Edition (2009)](http://libgen.rs/search.php?req=%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D&open=0&res=25&view=simple&phrase=1&column=def)  | 作者为人们管理复杂项目提供了颇具洞察力的见解。  | :star: :star: :star: :star: :star:|
