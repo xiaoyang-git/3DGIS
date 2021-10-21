@@ -24,6 +24,13 @@
 
 ## JavaScript
 
+### 书籍
+
+| 书名  | 简介 | 推荐指数 |
+| ------------- | ------------- | ------------- |
+| 	[JavaScript高级程序设计（第3版） (2012)](http://libgen.rs/search.php?req=JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89&open=0&res=25&view=simple&phrase=1&column=def)  | JavaScript 超级畅销书。  | :star: :star: :star: :star: :star:|
+
+
 ## 数据结构与算法
 
 ## 软件开发方法
