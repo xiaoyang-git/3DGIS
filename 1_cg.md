@@ -38,5 +38,4 @@
 | ------------- | ------------- | ------------- |
 | 	[OpenGL超级宝典 5th (2009)](http://libgen.rs/search.php?req=OpenGL+SuperBible+%3A+Comprehensive+Tutorial+and+Reference&open=0&res=25&view=simple&phrase=1&column=def)  | OpenGL全面基础的理解  | :star: :star: :star: :star: :star:|
 | 书名  | 简介 | 推荐指数 |
-| ------------- | ------------- | ------------- |
 | 	[WebGL编程指南 (2014)](https://book.douban.com/subject/25909351/)  | 非常适合入门  | :star: :star: :star: :star: :star:|
