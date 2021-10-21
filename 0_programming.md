@@ -28,7 +28,7 @@
 | 	[Inside the C++ Object Model (1996)](http://libgen.rs/search.php?req=inside+c%2B%2B+object+model&open=0&res=25&view=simple&phrase=1&column=def) | 重点介绍了支持 C++ 中面向对象编程的底层机制。 | :star: :star: :star: :star: :star:|
 | 	[Effective C++, 3rd (2005)](http://libgen.rs/search.php?req=%09Effective+C%2B%2B+Third+Edition+55+Specific+Ways+to+Improve+Your+Programs+and+scott&open=0&res=25&view=simple&phrase=1&column=def)  | Effective C++：改善程序与设计的55个具体做法。  | :star: :star: :star: :star: :star:|
 | 	[STL源码剖析, (2002)](http://libgen.rs/search.php?req=STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)  | 侯捷著作，介绍容器和算法实现。  | :star: :star: :star: :star: :star:|
-| 	[C++沉思录, (2002)](http://libgen.rs/search.php?req=C%2B%2B%E6%B2%89%E6%80%9D%E5%BD%95&open=0&res=25&view=simple&phrase=1&column=def)  | C++语言的历史和特点、类和继承、STL与泛型编程、库的设计等几大技术话题进行了详细而深入的讨论。  | :star: :star: :star: :star: :star:|
+| 	[C++沉思录, (2002)](http://libgen.rs/search.php?req=C%2B%2B%E6%B2%89%E6%80%9D%E5%BD%95&open=0&res=25&view=simple&phrase=1&column=def)  | C++语言的历史和特点、类和继承、STL与泛型编程、库的设计等话题讨论。  | :star: :star: :star: :star: :star:|
 
 
 
