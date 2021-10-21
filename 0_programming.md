@@ -49,4 +49,10 @@
 
 ## 数据结构与算法
 
+### 书籍
+
+| 书名  | 简介 | 推荐指数 |
+| ------------- | ------------- | ------------- |
+| 	[算法导论, 3rd Edition (2009)](http://libgen.rs/search.php?&req=Introduction+to+Algorithms+Thomas&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)  | 总有一本书是读不完的。  | :star: :star: :star: :star: :star:|
+
 ## 软件开发方法
