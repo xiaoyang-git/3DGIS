@@ -14,7 +14,7 @@
 
 ### 教程
 
-[线性代数 MIT](https://www.bilibili.com/video/BV1GA411t7rL/)
+[线性代数 MIT](https://www.bilibili.com/video/BV1Kt411y7jN/)
 
 ### 书籍
 | 书名  | 简介 | 推荐指数 |
