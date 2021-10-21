@@ -7,6 +7,7 @@
 + [编程](./0_programming.md)
 + [图形学](./1_cg.md)
 + [地理信息系统GIS](./2_gis.md)
++ [技术写作](./2_technical_writing.md)
 + [其他资源](./5_resources.md)
 
 ## 常用工具
