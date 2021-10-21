@@ -12,7 +12,7 @@
 
 ## Math
 
-###教程
+### 教程
 
 [线性代数 MIT](https://www.bilibili.com/video/BV1GA411t7rL/)
 
