@@ -11,11 +11,11 @@
 + [书单](./4_booklist.md)
 + [其他资源](./5_resources.md)
 
-### 常用工具
+## 常用工具
 
 
 [Library Genesis](http://libgen.rs/)-图书下载网站，多数原版技术书籍均可在此找到
 
 
 
-:anchor: Keep Reading , Keep Coding.
+:monkey: Keep Reading , Keep Coding.
