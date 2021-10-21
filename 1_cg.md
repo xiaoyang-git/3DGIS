@@ -4,10 +4,18 @@
 
 ## 索引
 
+* [Math](#Math)
 * [Geometry](#Geometry)
 * [Rendering](#Rendering)
 * [Animation&Simulation](#Animation&Simulation)
 * [OpenGL&WebGL](#OpenGL&WebGL)
+
+## Math
+
+### 书籍
+| 书名  | 简介 | 推荐指数 |
+| ------------- | ------------- | ------------- |
+| 	[3D数学基础 (2005)](https://book.douban.com/subject/1400419/)  | 研究隐藏在3D几何世界背后的数学问题。 | :star: :star: :star: :star: :star:|
 
 ## Geometry
 
