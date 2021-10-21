@@ -4,10 +4,10 @@
 
 ## 索引
 
-* [Math](#Math)
-* [Geometry](#Geometry)
-* [Rendering](#Rendering)
-* [Animation&Simulation](#Animation&Simulation)
+* [数学](#Math)
+* [几何](#Geometry)
+* [渲染](#Rendering)
+* [动画&仿真](#Animation&Simulation)
 * [OpenGL&WebGL](#OpenGL&WebGL)
 
 ## Math
